@@ -1,0 +1,847 @@
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-1 
+***** Feeder Setup *****
+
+Table: = 1
+*Feeder Setup
+Feeder Num = 4
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R         Feeder Name           Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5 20010000JT90J        0201RP03              L  Wide08 Forward02 Small paper paper      16            AR48,AR57,AR47,AR56,
+      - -                    -                     -  -                            -          -             AR45,AR55,AR44,AR54
+        1020A1000610J        0201CP05              R  Wide08 Forward02 Small paper paper      2             AL23
+      6 200068D00002J        0201RP03              L  Wide08 Forward02 Small paper paper      36            R171,R187,R174,R176,
+      - -                    -                     -  -                            -          -             R191,R180,R178,R185,
+      - -                    -                     -  -                            -          -             R173,R193,R181,R182,
+      - -                    -                     -  -                            -          -             R184,R194,R175,R177,
+      - -                    -                     -  -                            -          -             R183,R179,R172,R188,
+      - -                    -                     -  -                            -          -             R170,R186,R196,R192,
+      - -                    -                     -  -                            -          -             R195
+        1020A1000725J        0201CP05              R  Wide08 Forward02 Small paper paper      4             AC22,AC23
+      7 204101AA0006J        0201CP05              L  Wide08 Forward02 Small paper paper      24            AC133,AC134,AC132,AC
+      - -                    -                     -  -                            -          -             143,AC144,AC142,AC15
+      - -                    -                     -  -                            -          -             3,AC154,AC152,AC163,
+      - -                    -                     -  -                            -          -             AC164,AC162
+        20010020A065J        0201RP03              R  Wide08 Forward02 Small paper paper      2             R229
+      8 20405D000003J        0201CP05              L  Wide08 Forward02 Small paper paper      12            WC56,WC111,WC57,WC12
+      - -                    -                     -  -                            -          -             1,WC23,WC60
+        ******************** ********************  R  -
+      9
+     10
+     11
+     12
+     13
+     14
+     15
+     16
+     17
+     18
+     19
+     20
+     21
+     22
+     23
+     24
+     25
+     26
+     27
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-1 
+***** Feeder Setup *****
+
+Table: = 2
+*Feeder Setup
+Feeder Num = 6
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R         Feeder Name           Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5 204270AA0003J        0201CP05              L  Wide08 Forward02 Small paper paper      12            WC157,WC187,WC184,WC
+      - -                    -                     -  -                            -          -             123,WC193,WC79
+        200068D00002J        0201RP03              R  Wide08 Forward02 Small paper paper      14            R182,R184,R194,R175,
+      - -                    -                     -  -                            -          -             R177,R183,R179,R172,
+      - -                    -                     -  -                            -          -             R188,R170,R186,R196,
+      - -                    -                     -  -                            -          -             R192,R195
+      6 20412DAA0003J        0201CP05              L  Wide08 Forward02 Small paper paper      12            WC22,WC65,WC49,WC120
+      - -                    -                     -  -                            -          -             ,WC20,WC46
+        200000000005J        0201rP05              R  Wide08 Forward02 Small paper paper      18            AR5,AR7,AR9,AR11,AR4
+      - -                    -                     -  -                            -          -             3,AR42,AR39,AR32,AR2
+      - -                    -                     -  -                            -          -             9
+      7 204100AJH100A        0201CP05              L  Wide08 Forward02 Small paper paper      8             AC161,AC151,AC141,AC
+      - -                    -                     -  -                            -          -             131
+        200000000005J        0201rP05              R  Wide08 Forward02 Small paper paper      18            AR30,AR28,AR20,AC516
+      - -                    -                     -  -                            -          -             ,WL131,WL121,WL111,R
+      - -                    -                     -  -                            -          -             189,R190
+      8
+      9 1020A0014800J        1005CP05              L  Wide08 Forward02 Small paper paper      8             AR10,AR12,AR8,AR6
+        204104000030J        0201CP05              R  Wide08 Forward02 Small paper paper      2             C533
+     10 204104AA0007J        0201CP05              L  Wide08 Forward02 Small paper paper      4             AC41,AC40
+        200240000001J        0201rP05              R  Wide08 Forward02 Small paper paper      2             R1135
+     11 204100AJH100A        0201CP05              L  Wide08 Forward02 Small paper paper      8             WR129,WR128,WR126,AC
+      - -                    -                     -  -                            -          -             26
+        20433DAA0001J        0201CP05              R  Wide08 Forward02 Small paper paper      2             AL22
+     12
+     13
+     14
+     15
+     16
+     17
+     18
+     19
+     20
+     21
+     22
+     23
+     24
+     25
+     26
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-1 
+***** Feeder Setup *****
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-1 
+***** Feeder Setup *****
+
+Table: = 3
+*Feeder Setup
+Feeder Num = 8
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R         Feeder Name           Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5 2041043A0058J        1005CP05              L  Wide08 Forward02 Small paper paper      12            DC110,VBC170,VBC7,VB
+      - -                    -                     -  -                            -          -             C8,C814,C289,C287,C4
+      - -                    -                     -  -                            -          -             43,WC125,AC109,AC100
+      - -                    -                     -  -                            -          -             ,C1071
+        20402DAA0000J        0201CP05              R  Wide08 Forward02 Small paper paper      8             AC28,AC56,AC57,AC119
+      6 1020A0011100J        0201L                 L  Wide08 Forward02 Small paper paper      6             WL130,WL120,WL110
+        20010010JT90E        0201RP03              R  Wide08 Forward02 Small paper paper      8             R395,R396,R397,R398
+      7 200100100004J        0201RP05              L  Wide08 Forward02 Small paper paper      8             AR15,AR16,AR17,AR18
+        20047010A036J        0201CP05              R  Wide08 Forward02 Small paper paper      10            R220,R219,R158,R406,
+      - -                    -                     -  -                            -          -             R402
+      8 20003300JN61A        1005RP03              L  Wide08 Forward02 Small paper paper      4             VBR8,VBR7
+        1020A1000811J        0201CP05              R  Wide08 Forward02 Small paper paper      6             WL132,WL133,WL134
+      9 20004700FT90E        0201RP03              L  Wide08 Forward02 Small paper paper      6             WR120,WR124,WR138
+        20427D000002J        0201RP03              R  Wide08 Forward02 Small paper paper      6             AC157,AC517,AL21
+     10 204101000009J        0201CP05              L  Wide08 Forward02 Small paper paper      6             WC134,WC124,WC114
+        20010020A019J        0201CP05              R  Wide08 Forward02 Small paper paper      4             R200,R199
+     11 20415D000005J        0201CP05              L  Wide08 Forward02 Small paper paper      4             AC20,AL20
+        204220000003J        0201CP05              R  Wide08 Forward02 Small paper paper      2             AC167
+     12 204104AA0007J        0201CP05              L  Wide08 Forward02 Small paper paper      2             C2
+        ******************** ********************  R  -
+     13
+     14
+     15
+     16
+     17
+     18
+     19
+     20
+     21
+     22
+     23
+     24
+     25
+     26
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-1 
+***** Feeder Setup *****
+
+Table: = 4
+*Feeder Setup
+Feeder Num = 3
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R         Feeder Name           Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5 2041023KH110J        1005CP05              L  Wide08 Forward02 Small paper paper      28            C784,WC64,WC116,WC95
+      - -                    -                     -  -                            -          -             ,WC129,WC132,WC136,A
+      - -                    -                     -  -                            -          -             C135,AC145,AC155,AC1
+      - -                    -                     -  -                            -          -             65,C222,C288,C290
+        20047010A006J        1005RP03              R  Wide08 Forward02 Small paper paper      22            VBR605,R415,R414,R42
+      - -                    -                     -  -                            -          -             2,R403,R407,R88,R89,
+      - -                    -                     -  -                            -          -             R451,R450,R428
+      6 20000000A034J        1005RP03              L  Wide08 Forward02 Small paper paper      28            R1102,R1104,WR72,WR3
+      - -                    -                     -  -                            -          -             4,WR21,WR117,WR127,R
+      - -                    -                     -  -                            -          -             399,AR2,AR21,AR34,AR
+      - -                    -                     -  -                            -          -             1,R334,R335,R340,R32
+      - -                    -                     -  -                            -          -             9,FB56,R12,R32,R393,
+      - -                    -                     -  -                            -          -             R712,R713,R1097,R57,
+      - -                    -                     -  -                            -          -             R203
+        ******************** ********************  R  -
+      7 ******************** ********************  L  -
+        20010020A025J        1005CP05              R  Wide08 Forward02 Small paper paper      30            R35,AR26,AR14,AR23,A
+      - -                    -                     -  -                            -          -             R25,WR25,R10,R404,WR
+      - -                    -                     -  -                            -          -             23,WR14,WR26,R36,R30
+      - -                    -                     -  -                            -          -             ,R31,R216
+      8
+      9
+     10
+     11
+     12
+     13
+     14
+     15
+     16
+     17
+     18
+     19
+     20
+     21
+     22
+     23
+     24
+     25
+     26
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-1 
+***** Feeder Setup *****
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-2 
+***** Feeder Setup *****
+
+Table: = 1
+*Feeder Setup
+Feeder Num = 12
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R               Feeder Name                Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5 102022200100J        0402CP30              L  Wide08 Forward02 Small paper            paper      6             WR115,WR125,WR135
+        2041043A0058J        1005CP05              R  Wide08 Forward02 Small paper            paper      19            C538,C539,C542,C543,
+      - -                    -                     -  -                                       -          -             C529,C289,C287,C443,
+      - -                    -                     -  -                                       -          -             C446,C401,C445,C527,
+      - -                    -                     -  -                                       -          -             C530,C532,WC105,AC58
+      - -                    -                     -  -                                       -          -             ,AC93,AC94,C187
+      6 20026120A009J        1005RP03              L  Wide08 Forward02 Small paper            paper      6             R1106,R1109,R1108
+        2041003JA200A        1005CP05              R  Wide08 Forward02 Small paper            paper      8             C1074,C1075,C398,C40
+      - -                    -                     -  -                                       -          -             5
+      7 20010020FN60E        1005RP03              L  Wide08 Forward02 Small paper            paper      8             WR131,WR121,WR111,R4
+      - -                    -                     -  -                                       -          -             42
+        20000000A034J        1005RP03              R  Wide08 Forward02 Small paper            paper      26            R1097,R57,R203,VBR45
+      - -                    -                     -  -                                       -          -             9,WR72,WR34,WR21,WR1
+      - -                    -                     -  -                                       -          -             17,WR127,R399,AR2,AR
+      - -                    -                     -  -                                       -          -             21,AR34,AR1,R334,R33
+      - -                    -                     -  -                                       -          -             5,R340,R329,FB56,R12
+      - -                    -                     -  -                                       -          -             ,R32,R393,WR137,WR73
+      - -                    -                     -  -                                       -          -             ,R1099,R238
+      8 20047020FN61E        1005RP03              L  Wide08 Forward02 Small paper            paper      4             R232,R94
+        200100400002J        1005RP03              R  Wide08 Forward02 Small paper            paper      2             R394
+      9 20006800FN60J        1005RP03              L  Wide08 Forward02 Small paper            paper      4             VBR513,VBR510
+        2043903JH100J        1005CP05              R  Wide08 Forward02 Small paper            paper      2             C887
+     10 20012030FN60E        1005RP03              L  Wide08 Forward02 Small paper            paper      4             AR183,WR183
+        200430300001J        1005RP03              R  Wide08 Forward02 Small paper            paper      2             R233
+     11 20026720FN60J        1005RP03              L  Wide08 Forward02 Small paper            paper      4             R63,R62
+        2041203JH100J        1005CP05              R  Wide08 Forward02 Small paper            paper      4             DC7,DC3
+     12 2042203JH102J        Capacitor1005_t0.5    L  Wide08 Forward02 Small paper            paper      4             WC107,AC108
+        20011030A005J        1005RP03              R  Wide08 Forward02 Small paper            paper      4             AR182,WR182
+     13 20082510FN60E        1005RP03              L  Wide08 Forward02 Small paper            paper      4             R1142,R1141
+        20010030A015J        1005R                 R  Wide08 Forward02 Small paper            paper      4             AR180,WR180
+     14 204225000012J        1005CP05              L  Wide08 Forward02 Small paper            paper      2             BC1
+        20043010FN60E        1005RP03              R  Wide08 Forward02 Small paper            paper      2             R9
+     15 200324200000J        1005RP03              L  Wide08 Forward02 Small paper            paper      2             R11
+        20000000JN60A        1005RP03              R  Wide08 Forward02 Small paper            paper      2             R1058
+     16 20433D3TH101J        1005CP05              L  Wide08 Forward02 Small paper            paper      2             DC111
+        2041013JH100J        1005CP05              R  Wide08 Forward02 Small paper            paper      2             C403
+     17
+     18
+     19
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-2 
+***** Feeder Setup *****
+     20
+     21
+     22
+     23
+     24
+     25
+     26
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-2 
+***** Feeder Setup *****
+
+Table: = 2
+*Feeder Setup
+Feeder Num = 4
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R               Feeder Name                Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5 2041053A0037J        1005CP05              L  Wide08 Forward02 Small paper            paper      12            C857,C926,C884,VBC1,
+      - -                    -                     -  -                                       -          -             VBC16,C910
+        2043303JH100J        1005CP05              R  Wide08 Forward02 Small paper            paper      22            C1534,C1535,C558,VBC
+      - -                    -                     -  -                                       -          -             2,VBC169,VBC15,C859,
+      - -                    -                     -  -                                       -          -             C930,WC102,AC102,C91
+      - -                    -                     -  -                                       -          -             4
+      6 20020000FN60J        1005RP03              L  Wide08 Forward02 Small paper            paper      14            R1136,VBR18,R1138,R1
+      - -                    -                     -  -                                       -          -             139,R1140,WR13,AR13
+        20010010FN60E        1005RP03              R  Wide08 Forward02 Small paper            paper      24            R204,R436,R437,R434,
+      - -                    -                     -  -                                       -          -             R13,R210,VBR503,VBR5
+      - -                    -                     -  -                                       -          -             02,VBR505,VBR504,VBR
+      - -                    -                     -  -                                       -          -             403,VBR400
+      7 2041003TH101J        1005CP05              L  Wide08 Forward02 Small paper            paper      16            WC24,WC25,WC128,WC12
+      - -                    -                     -  -                                       -          -             2,WC118,WC112,C113,C
+      - -                    -                     -  -                                       -          -             112
+        2041043A0058J        1005CP05              R  Wide08 Forward02 Small paper            paper      34            VBC9,VBC10,C304,C540
+      - -                    -                     -  -                                       -          -             ,C541,C180,C856,C858
+      - -                    -                     -  -                                       -          -             ,DC2,DC31,C1549,C553
+      - -                    -                     -  -                                       -          -             ,C446,C401,C448,C445
+      - -                    -                     -  -                                       -          -             ,C527,C532,WC109,WC1
+      - -                    -                     -  -                                       -          -             05,WC40,WC41,WC138,A
+      - -                    -                     -  -                                       -          -             C105,AC59,AC58,AC93,
+      - -                    -                     -  -                                       -          -             AC94,AC103,C909,C913
+      - -                    -                     -  -                                       -          -             ,WC115,WC100,WC103
+      8
+      9 ******************** ********************  L  -
+        2041033A0042J        1005CP05              R  Wide08 Forward02 Small paper            paper      10            C907,AC171,C435,C918
+      - -                    -                     -  -                                       -          -             ,C867
+     10
+     11
+     12
+     13
+     14
+     15
+     16
+     17
+     18
+     19
+     20
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-2 
+***** Feeder Setup *****
+     21
+     22
+     23
+     24
+     25
+     26
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-2 
+***** Feeder Setup *****
+
+Table: = 3
+*Feeder Setup
+Feeder Num = 6
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R               Feeder Name                Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5 1021A1000198J        1608CP08              L  Wide08 Forward04 Small paper            paper      10            FB107,FB109,FB108,FB
+      - -                    -                     -  -                                       -          -             110,FB106
+        2044754A0028J        1608CP08              R  Wide08 Forward04 Small paper            paper      12            C397,C395,C319,C391,
+      - -                    -                     -  -                                       -          -             C317,C441
+      6 20000000JM40A        1608RP05              L  Wide08 Forward04 Small paper            paper      10            FB60,R21,FB54,FB57,R
+      - -                    -                     -  -                                       -          -             22
+        2041064A0023J        1608CP08              R  Wide08 Forward04 Small paper            paper      16            DC109,DC18,C76,WC101
+      - -                    -                     -  -                                       -          -             ,WC104,AC101,AC104,C
+      - -                    -                     -  -                                       -          -             478
+      7 204106000050J        2125CP08              L  Wide08 Forward04 Small Emboss(standard) emboss     12            C815,C276,C912,C928,
+      - -                    -                     -  -                                       -          -             C885,C813
+        2042264A0009J        1608CP08              R  Wide08 Forward04 Small paper            paper      18            C869,C889,C888,C854,
+      - -                    -                     -  -                                       -          -             C860,DC5,C932,C931,C
+      - -                    -                     -  -                                       -          -             919,C528,C554,C439,C
+      - -                    -                     -  -                                       -          -             358,C916,C915,C908
+      8 2041054A0042J        1608CP08              L  Wide08 Forward04 Small paper            paper      10            C721,C724,C725,C723,
+      - -                    -                     -  -                                       -          -             C722
+        2041524JH100J        Capacitor1608_t0.8    R  Wide08 Forward04 Large paper            paper      8             VBC500,VBC501,VBC503
+      - -                    -                     -  -                                       -          -             ,VBC502
+      9 2041044A0048J        1608CP08              L  Wide08 Forward04 Small paper            paper      10            C2003,C157,C283,C200
+      - -                    -                     -  -                                       -          -             2,C9
+        1024A0009300J        1608RP05              R  Wide08 Forward04 Small paper            paper      8             AFL1,AFL2,AFL3,AFL4
+     10
+     11 20000000A034J        1005RP03              L  Wide08 Forward02 Small paper            paper      6             WR137,WR73,R1099,R23
+      - -                    -                     -  -                                       -          -             8,R712,VBR459
+        2041043A0058J        1005CP05              R  Wide08 Forward02 Small paper            paper      5             C448,C531,AC103,WC10
+      - -                    -                     -  -                                       -          -             3,C1071
+     12
+     13
+     14
+     15
+     16
+     17
+     18
+     19
+     20
+     21
+     22
+     23
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-2 
+***** Feeder Setup *****
+     24
+     25
+     26
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-2 
+***** Feeder Setup *****
+
+Table: = 4
+*Feeder Setup
+Feeder Num = 10
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R               Feeder Name                Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5 200499D0FN60A        1005RP03              L  Wide08 Forward02 Small paper            paper      6             WR113,WR123,WR133
+        20405D3BE100E        1005CP05              R  Wide08 Forward02 Small paper            paper      8             C118,C140,C152,C151
+      6 102033201100J        1005CP05              L  Wide08 Forward02 Small paper            paper      6             WR132,WR122,WR112
+        2041053KA100A        1005CP05              R  Wide08 Forward02 Small paper            paper      14            WC131,WC99,WC66,AC45
+      - -                    -                     -  -                                       -          -             ,AC48,AC122,AC123
+      7 20022000A004J        1005RP03              L  Wide08 Forward02 Small paper            paper      8             R381,R374,R375,R379
+        2041043A0058J        1005CP05              R  Wide08 Forward02 Small paper            paper      48            C1549,C553,WC109,WC4
+      - -                    -                     -  -                                       -          -             0,WC41,WC138,WC125,A
+      - -                    -                     -  -                                       -          -             C109,AC105,AC59,AC10
+      - -                    -                     -  -                                       -          -             0,C909,C913,WC115,WC
+      - -                    -                     -  -                                       -          -             100,C1073,C929,C876,
+      - -                    -                     -  -                                       -          -             C920,C886,DC110,VBC1
+      - -                    -                     -  -                                       -          -             70,VBC7,VBC8,C814,VB
+      - -                    -                     -  -                                       -          -             C9,VBC10,C304,C538,C
+      - -                    -                     -  -                                       -          -             539,C540,C541,C542,C
+      - -                    -                     -  -                                       -          -             543,C529,C530,C531,C
+      - -                    -                     -  -                                       -          -             187,C180,C856,C858,D
+      - -                    -                     -  -                                       -          -             C2,DC31
+      8 200115300002J        1005RP03              L  Wide08 Forward02 Small paper            paper      6             R1105,R1110,R1103
+        20003900FN60E        1005RP03              R  Wide08 Forward02 Small paper            paper      4             VBR500,VBR501
+      9 204471000007J        1005CP05              L  Wide08 Forward02 Small paper            paper      4             C1,C114
+        2044703JH100J        1005CP05              R  Wide08 Forward02 Small paper            paper      4             C1546,C1540
+     10 2042703A0001J        1005CP05              L  Wide08 Forward02 Small paper            paper      4             VBC498,VBC499
+        200665200002J        1005RP03              R  Wide08 Forward02 Small paper            paper      4             WR181,AR181
+     11 2044713KH100J        1005CP05              L  Wide08 Forward02 Small paper            paper      2             VBC14
+        20011020FN60E        1005RP03              R  Wide08 Forward02 Small paper            paper      2             R17
+     12 20447D3A0009J        1005CP05              L  Wide08 Forward02 Small paper            paper      2             VBC509
+        2041003TH101J        1005CP05              R  Wide08 Forward02 Small paper            paper      2             C285
+     13 200120000002J        1005RP03              L  Wide08 Forward02 Small paper            paper      2             R373
+        20010030A013J        1005RP03              R  Wide08 Forward02 Small paper            paper      2             R73
+     14 20022010FN60E        1005RP03              L  Wide08 Forward02 Small paper            paper      2             R208
+        20012020FN60E        1005RP03              R  Wide08 Forward02 Small paper            paper      2             R16
+     15
+     16
+     17
+     18
+     19
+     20
+     21
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-2 
+***** Feeder Setup *****
+     22
+     23
+     24
+     25
+     26
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-3 
+***** Feeder Setup *****
+
+Table: = 1
+*Feeder Setup
+Feeder Num = 13
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R               Feeder Name                Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5 20020010FN40E        1608RP05              L  Wide08 Forward04 Small paper            paper      4             R370,R283
+        2043310KE200J        2125CE08              R  Wide08 Forward04 Small paper            paper      8             C355,C404,C305,C430
+      6 20000000FA00J        2125RP05              L  Wide08 Forward04 Small paper            paper      4             WR189,WR188
+        2044754A0031J        1608CP08              R  Wide08 Forward04 Small paper            paper      8             AC513,AC514,AC512,AC
+      - -                    -                     -  -                                       -          -             511
+      7 2041060A0065J        2125CE08              L  Wide08 Forward04 Small Emboss(standard) emboss     4             C279,C286
+        2042264A0009J        1608CP08              R  Wide08 Forward04 Small paper            paper      14            C932,C931,C919,C528,
+      - -                    -                     -  -                                       -          -             C554,C439,C358,C916,
+      - -                    -                     -  -                                       -          -             C915,C908,C869,C854,
+      - -                    -                     -  -                                       -          -             C860,DC5
+      8 116800546500J        SOT23                 L  Wide08 Forward04 Small Emboss(standard) emboss     4             AU4,WU6
+        115200488100J        SOT23                 R  Wide08 Forward04 Small Emboss(standard) emboss     4             Q8,Q12
+      9 204681000005J        1608CP08              L  Wide08 Forward04 Small paper            paper      4             VBC505,VBC504
+        200124D00000J        2125RP05              R  Wide08 Forward04 Small paper            paper      4             VBR514,VBR515
+     10 2041024JE100A        1608CP05              L  Wide08 Forward04 Small paper            paper      4             C579,C1539
+        20002200FN40E        1608RP05              R  Wide08 Forward04 Small paper            paper      4             VBR507,VBR506
+     11 204102000024J        3216CP16              L  Wide08 Forward04 Small Emboss(standard) emboss     2             C184
+        200100400005J        1608CP08              R  Wide08 Forward04 Small paper            paper      2             R719
+     12 116000243800J        CRY4P5E7242           L  Wide08 Forward04 Small Emboss(standard) emboss     2             Y1
+        20047010FM41A        1608RP05              R  Wide08 Forward04 Small paper            paper      2             R1340
+     13 2042244A0011J        1608CP08              L  Wide08 Forward04 Small paper            paper      2             C359
+        2041054A0043J        1608CP08              R  Wide08 Forward04 Small paper            paper      2             C179
+     14 2042244A0013J        1608CP08              L  Wide08 Forward04 Small paper            paper      2             C160
+        2074A0000500J        SSMiniTr(5Pin)        R  Wide08 Forward04 Small Emboss(standard) emboss     2             U29
+     15 2041044A0035J        1608CP08              L  Wide08 Forward04 Small paper            paper      2             C552
+        1025A0005200J        1608CP08              R  Wide08 Forward04 Small paper            paper      6             AFL5,AFL6,AFL7
+     16 20000000A052J        1608RP05              L  Wide08 Forward04 Small paper            paper      2             VBR460
+        2041530KA210J        2125CE08              R  Wide08 Forward04 Small paper            paper      8             C428,C323,C324,C326
+     17 20000000A028J        2125RP05              L  Wide08 Forward04 Small paper            paper      2             DFB48
+        1021A1000101J        1608CP08              R  Wide08 Forward04 Small paper            paper      2             DFB60
+     18
+     19
+     20
+     21
+     22
+     23
+     24
+     25
+     26
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-3 
+***** Feeder Setup *****
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-3 
+***** Feeder Setup *****
+
+Table: = 2
+*Feeder Setup
+Feeder Num = 13
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R               Feeder Name                Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5 200562C0A000J        2125RP05              L  Wide08 Forward04 Small paper            paper      4             R418,R412
+        115000602100J        SOT23                 R  Wide08 Forward04 Small Emboss(standard) emboss     8             D40,D36,D39,D30
+      6 116800533500J        SOT-6                 L  Wide08 Forward04 Small Emboss(standard) emboss     6             U512,U515,U511
+        204105000013J        3216CP16              R  Wide08 Forward04 Small Emboss(standard) emboss     8             C426,C433,C427,C421
+      7 204106000044J        3216CP16              L  Wide08 Forward04 Small Emboss(standard) emboss     6             C1545,C551,C555
+        204226000019J        2125CE08              R  Wide08 Forward04 Small Emboss(standard) emboss     16            AC106,AC111,WC108,WC
+      - -                    -                     -  -                                       -          -             106,DC6,DC303,DC302,
+      - -                    -                     -  -                                       -          -             DC8
+      8 1023A0033100J        2125LP08              L  Wide08 Forward04 Small Emboss(standard) emboss     4             WL4,AL8
+        200001D0FC10J        3216RP06              R  Wide08 Forward04 Small paper            paper      4             R318,R321
+      9 115000080100J        SOT23                 L  Wide08 Forward04 Small Emboss(standard) emboss     4             D32,D22
+        20010000A034J        3216RP06              R  Wide08 Forward04 Small paper            paper      4             R417,R423
+     10 200822-103           2125RP05              L  Wide08 Forward04 Small paper            paper      4             R425,R420
+        200040-506           3216RP06              R  Wide08 Forward04 Small paper            paper      4             R309,R310
+     11 118400311100J        SOP(8pin)             -  Wide12 Forward08 Large Emboss(standard) emboss     8             AJ4,AJ3,AJ2,AJ1
+     12 116000099400J        3225C                 L  Wide08 Forward04 Small Emboss(standard) emboss     2             WY1
+        20018010FA00J        2125RP05              R  Wide08 Forward04 Small paper            paper      4             R421,R426
+     13 116800530000J        SOT-6                 L  Wide08 Forward04 Small Emboss(standard) emboss     2             U30
+        204473000011J        3216CP16              R  Wide08 Forward04 Small Emboss(standard) emboss     4             VBC506,VBC507
+     14 116000267300J        3225C                 L  Wide08 Forward04 Small Emboss(standard) emboss     2             AY1
+        20000000JB10E        3216RP06              R  Wide08 Forward04 Small paper            paper      2             R1112
+     15 115200144100J        SOT23                 L  Wide08 Forward04 Small Emboss(standard) emboss     2             Q28
+        115000077100J        Diode5030T30          R  Wide08 Forward04 Small Emboss(standard) emboss     2             D38
+     16 204106000032J        2125CE08              L  Wide08 Forward04 Small Emboss(standard) emboss     2             C556
+        207000800300A        SSMiniTr(5Pin)        R  Wide08 Forward04 Small Emboss(standard) emboss     2             U706
+     17 115000475100J        SOD323                -  Wide12 Forward04 Large Emboss(standard) emboss     2             D37
+     18
+     19
+     20
+     21
+     22
+     23
+     24
+     25
+     26
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-3 
+***** Feeder Setup *****
+
+Table: = 3
+*Feeder Setup
+Feeder Num = 7
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R               Feeder Name                Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5 116800029600J        SOP(8_6pin)           L  Wide08 Forward04 Large Emboss(standard) emboss     4             WU5,AU5
+        1023A0024200J        2125LP08              R  Wide08 Forward04 Small Emboss(standard) emboss     4             AL5,WL5
+      6 116800547000J        SOT23-6               L  Wide08 Forward04 Small Emboss(standard) emboss     4             U12,U514
+        115000621600J        SOT23                 R  Wide08 Forward04 Small Emboss(standard) emboss     2             D41
+      7 124300002900J        SSMiniTr(3Pin)        -  Wide16 Forward08 Large Emboss(standard) emboss     18            NT11,NT10,NT1,NT6,NT
+      - -                    -                     -  -                                       -          -             3,NT13,NT7,NT9,NT4
+      8 110300199400J        QFN16                 -  Wide12 Forward08 Large Emboss(standard) emboss     8             AU13,AU12,AU11,AU10
+      9 115000229100J        Diode5030T30          -  Wide12 Forward04 Small Emboss(standard) emboss     4             D27,D24
+     10 207000008700J        SOP(20pin)            -  Wide16 Forward08 Large Emboss(standard) emboss     4             U33,U36
+     11 115000055100J        DIODE                 -  Wide12 Forward04 Large Emboss(standard) emboss     2             D58
+     12
+     13
+     14
+     15
+     16
+     17
+     18
+     19
+     20
+     21
+     22
+     23
+     24
+     25
+     26
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :CM602-3 
+***** Feeder Setup *****
+
+Table: = 4
+*Feeder Setup
+Feeder Num = 17
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R               Feeder Name                Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4 1023A0009200J        COIL7070T4            -  Wide16 Forward12 Large Emboss(standard) emboss     4             L12,L8
+      5 116000259800J        CRY8040E15            L  Wide08 Forward04 Small Emboss(standard) emboss     2             VBY6
+        ******************** ********************  R  -
+      6 1023A0028900J        COIL7070T4            -  Wide16 Forward08 Large Emboss(standard) emboss     8             L63,L58,L56,L62
+      7 110300453500J        QFPN16                -  Wide12 Forward08 Large Emboss(standard) emboss     6             WU3,WU2,WU1
+      8 20003600FC20J        6432CE07              -  Wide12 Forward04 Small Emboss(standard) emboss     8             R368,R339,R342,R326
+      9 115200391100J        SOT6845T1_3           -  Wide12 Forward08 Large Emboss(standard) emboss     4             IQ4,IQ3
+     10 1023A2012000J        COIL7070T4            -  Wide16 Forward08 Large Emboss(standard) emboss     2             L5
+     11 115200501800J        SO8                   -  Wide12 Forward08 Large Emboss(standard) emboss     2             Q9
+     12 116800152100J        SOP8P0.65T1.5         -  Wide16 Forward08 Large Emboss(standard) emboss     2             U22
+     13 115200379100J        SOP8P0.65T1.5         -  Wide12 Forward08 Large Emboss(standard) emboss     2             Q21
+     14 1023A2000700J        COIL7070T4            -  Wide16 Forward12 Large Emboss(standard) emboss     2             L21
+     15 116800295100J        SOT2320T1_3           -  Wide12 Forward08 Small Emboss(standard) emboss     2             DU4
+     16 116000258000J        OSC                   -  Wide24 Forward12 Large Emboss(standard) emboss     2             X1
+     17
+     18 115000099900J        DIODE                 -  Wide12 Forward08 Large Emboss(standard) emboss     2             D35
+     19 1023A0048300J        COIL7070T4            -  Wide24 Forward12 Large Emboss(standard) emboss     2             CM3
+     20
+     21 1026A0001300J        452732                -  Wide12 Forward08 Large Emboss(standard) emboss     2             CR2
+     22 115000340100J        DIODE                 -  Wide12 Forward04 Large Emboss(standard) emboss     2             D1
+     23
+     24
+     25
+     26
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :DT401-1 
+***** Feeder Setup *****
+
+Table: = 1
+*Feeder Setup
+Feeder Num = 8
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R               Feeder Name                Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5
+      6
+      7 101107000024J        SMD                   -  Wide16 Forward12 Large Emboss(standard) emboss     2             C7
+      8 101108000011J        8*8*10                -  Wide24 Forward16 Large Emboss(standard) emboss     2             C6
+      9
+     10 101477000029J        1608CP08              -  Wide24 Forward16 Large Emboss(standard) emboss     2             DC17
+     11
+     12 115500048100J        SP050002R0A           -  Wide24 Forward16 Large Emboss(standard) emboss     2             T5
+     13
+     14
+     15
+     16 110100030100J        SOP8P0.65T1.5         -  Wide24 Forward16 Large Emboss(standard) emboss     2             IC1
+     17
+     18 110100129100J        QFP48P05T1            -  Wide24 Forward16 Large Emboss(standard) emboss     2             U23
+     19
+     20 115500242100J        SOP(16pin)            -  Wide32 Forward24 Large Emboss(standard) emboss     2             T10
+     21
+     22 115500191100J        SOP(8Pin)emboss       -  Wide32 Forward20 Large Emboss(standard) emboss     2             T2
+     23
+     24
+     25
+     26
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :DT401-1 
+***** Feeder Setup *****
+
+Table: = 2
+*Feeder Setup
+Tray Num = 10
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R       Tray Name        Number of use    Mount Comment
+      1 109100099700J-TARY   BGA84                 -  QFP                    2             U2
+      2 110300459102J        QFN164                -  QFP                    2             WU10
+      3 109100099700J-TARY   BGA84                 -  QFP                    0
+      4 110300459102J        QFN164                -  QFP                    0
+      5
+      6 110000194900J        QFN108                -  QFP                    2             VU1
+      7
+      8 110000194900J        QFN108                -  QFP                    0
+      9
+     10 110300457600J        QFN164                -  110300440600J          2             AU1
+     11
+     12 110300457600J        QFN164                -  110300440600J          0
+     13
+     14 110000192002J        BGA413                -  QFP                    2             U1
+     15
+     16 110000192002J        BGA413                -  QFP                    0
+     17
+     18
+     19
+     20
+
+TrayLayout data 
+Address    X       Y    ROT    X       Y    ROT    X       Y    ROT    X       Y    ROT    X       Y    ROT
+      1    0.00    0.00   0
+      2    0.00    0.00   0
+      3    0.00    0.00   0
+      4    0.00    0.00   0
+      6    0.00    0.00   0
+      8    0.00    0.00   0
+     10    0.00    0.00   0
+     12    0.00    0.00   0
+     14    0.00    0.00   0
+     16    0.00    0.00   0
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :DT401-2 
+***** Feeder Setup *****
+
+Table: = 1
+*Feeder Setup
+Feeder Num = 1
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R               Feeder Name                Package   Number of use    Mount Comment
+      1
+      2
+      3
+      4
+      5
+      6
+      7
+      8
+      9
+     10 115500175100J        SMD48                 -  Wide44 Forward24 Large Emboss(standard) emboss     4             T3,T1
+     11
+     12
+     13
+     14
+     15
+     16
+     17
+     18
+     19
+     20
+     21
+     22
+     23
+     24
+     25
+     26
+     27
+
+
+Lot :SRA23951B009JC-R01A 
+MC File :SRA23951B009JC 
+MC :DT401-2 
+***** Feeder Setup *****
+
+Table: = 2
+*Feeder Setup
+Tray Num = 10
+Feeder Table Mode: = Joint Mode
+Address      Parts Name           Chip Name       L/R       Tray Name        Number of use    Mount Comment
+      1
+      2 123700075201J        FET4748T2             -  QFP                    4             SHWU1,SHAU1
+      3
+      4 123700085100J        FET4748T2             -  QFP                    2             ST_VU1
+      5
+      6 123700070300J        FET                   -  QFP                    2             SHT_U1
+      7
+      8 123700075201J        FET4748T2             -  QFP                    0
+      9
+     10 123700085100J        FET4748T2             -  QFP                    0
+     11
+     12 123700070300J        FET                   -  QFP                    0
+     13
+     14 123700075201J        FET4748T2             -  QFP                    0
+     15
+     16 123700085100J        FET4748T2             -  QFP                    0
+     17
+     18 123700070300J        FET                   -  QFP                    0
+     19
+     20 123700075201J        FET4748T2             -  QFP                    0
+
+TrayLayout data 
+Address    X       Y    ROT    X       Y    ROT    X       Y    ROT    X       Y    ROT    X       Y    ROT
+      2    0.00    0.00   0
+      4    0.00    0.00   0
+      6    0.00    0.00   0
+      8    0.00    0.00   0
+     10    0.00    0.00   0
+     12    0.00    0.00   0
+     14    0.00    0.00   0
+     16    0.00    0.00   0
+     18    0.00    0.00   0
+     20    0.00    0.00   0
+
+
